@@ -1,6 +1,6 @@
 ![](common/images/customer.logo.png)
 ---
-# ORACLE Cloud-Native DevOps workshop #
+# ORACLE Cloud-Native DevOps Stephane's workshop #
 
 ## Introduction ##
 
